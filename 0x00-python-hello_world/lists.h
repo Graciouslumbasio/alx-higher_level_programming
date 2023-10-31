@@ -1,4 +1,4 @@
-#include "lists.h"
+#include "lists.h"0x00-python-hello_world
 
 /**
  * check_cycle - checks if a linked list contains a cycle
@@ -29,7 +29,6 @@ root@e024474929d2:~/alx-higher_level_programming/0x00-python-hello_world# cat li
 #define LISTS_H
 
 #include <stdlib.h>
-
 /**
  * struct listint_s - singly linked list
  * @n: integer
